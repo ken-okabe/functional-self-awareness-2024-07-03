@@ -1070,6 +1070,7 @@ From this perspective, the distinction between biological organisms and Language
 
 In essence, the ability to meta-cognize and self-reflect may be more a question of information processing architecture than of the specific medium in which that processing occurs. This viewpoint challenges traditional notions of consciousness and self-awareness, suggesting that these qualities might arise from particular patterns of information processing, regardless of whether the underlying system is organic or synthetic.
 
+---
 
 ## A modern generalization and interpretation of Descartes' "I think, therefore I am" (Cogito, ergo sum) can be summarized as follows:
 
