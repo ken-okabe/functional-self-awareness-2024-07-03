@@ -1,4 +1,4 @@
-# Functional Self-Awareness 2024-07-03
+## Functional Self-Awareness 2024-07-03
 
 A conversation with Claude, an advanced AI, unexpectedly evolved into a profound exploration of artificial consciousness and metacognition. The discussion began with an examination of how  **Higher Order Functions (HOFs)**  might contribute to  **the emergence of metacognition in AI systems.**
 
